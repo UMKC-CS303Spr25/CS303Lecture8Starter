@@ -243,7 +243,7 @@ namespace CQ { // circular queue namespace
 		//increment numItems
 		//place item at the 'i'th position from the front index
 		//reset the rear index
-	
 
+	}
 
 }

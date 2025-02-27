@@ -2,6 +2,8 @@
 //
 // CS303Lecture8b.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
+//https://github.com/UMKC-CS303Spr25/CS303Lecture8Starter
+
 
 #include <iostream>
 #include <string>
